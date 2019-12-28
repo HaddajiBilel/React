@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629622554261",
+    "firebase_url": "https://iot-bilel.firebaseio.com",
+    "project_id": "iot-bilel",
+    "storage_bucket": "iot-bilel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629622554261:android:6b0d5065c40043dd15a59c",
+        "android_client_info": {
+          "package_name": "com.eniso.iotproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629622554261-clp2fc1q28mkqt2j2nh2g926emj6sg2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmdgBZ8CcfKwWkZx5bmbfBZ_p4s4kKGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629622554261-clp2fc1q28mkqt2j2nh2g926emj6sg2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
